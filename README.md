@@ -1,0 +1,2 @@
+# kintone_password_mask
+kintoneのレコードのパスワードマスク
